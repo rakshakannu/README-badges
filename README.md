@@ -17,3 +17,6 @@ All the badges have been created for this repository only :))
 
 ## Language count
 ![GitHub language count](https://img.shields.io/github/languages/count/rakshakannu/README-badges?style=flat-square)
+
+## Profile views
+![Profile views](https://gpvc.arturio.dev/rakshakannu)
